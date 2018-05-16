@@ -1,0 +1,266 @@
+[beaconLoop] Enviando pacote de Request [packetId: 1462] ‘
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1462, RSSISend: -52, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1462, RSSISend: -49, RSSIRecv: -47]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1462, RSSISend: -55, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1463]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1463, RSSISend: -51, RSSIRecv: -47]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1463, RSSISend: -53, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1463, RSSISend: -56, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1464]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1465, RSSISend: -54, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1465, RSSISend: -50, RSSIRecv: -48]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1465, RSSISend: -57, RSSIRecv: -56]
+[beaconLoop] Enviando pacote de Request [packetId: 1466]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1466, RSSISend: -50, RSSIRecv: -47]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1466, RSSISend: -53, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1466, RSSISend: -56, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1467]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1467, RSSISend: -49, RSSIRecv: -45]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1467, RSSISend: -57, RSSIRecv: -55]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1467, RSSISend: -52, RSSIRecv: -51]
+[beaconLoop] Enviando pacote de Request [packetId: 1468]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1468, RSSISend: -52, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1468, RSSISend: -50, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1468, RSSISend: -56, RSSIRecv: -56]
+[beaconLoop] Enviando pacote de Request [packetId: 1469]
+[beaconLoop] Enviando pacote de Request [packetId: 1470]
+[beaconLoop] Enviando pacote de Request [packetId: 1471]
+[beaconLoop] Enviando pacote de Request [packetId: 1472]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1473, RSSISend: -52, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1473, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1473, RSSISend: -56, RSSIRecv: -57]
+[beaconLoop] Enviando pacote de Request [packetId: 1474]
+
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1474, RSSISend: -55, RSSIRecv: -55]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1474, RSSISend: -51, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1475]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1475, RSSISend: -51, RSSIRecv: -49]
+‘ [beaconLoop] Enviando pacote de Request [packetId: 1476]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1476, RSSISend: -53, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1476, RSSISend: -52, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1476, RSSISend: -57, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1477]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1477, RSSISend: -51, RSSIRecv: -51]
+(3‘:) [beaconLoop] Enviando pacote de Request [packetId: 1478]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1478, RSSISend: -53, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1479]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1479, RSSISend: -49, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1479, RSSISend: -53, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1479, RSSISend: -55, RSSIRecv: -54]
+[beaconLoop] Enviando pacote de Request [packetId: 1480]
+[beaconLoop] Enviando pacote de Request [packetId: 1481]
+[beaconLoop] Enviando pacote de Request [packetId: 1482]
+[beaconLoop] Enviando pacote de Request [packetId: 1483]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1483, RSSISend: -53, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1484]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1484, RSSISend: -53, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1485]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1485, RSSISend: -51, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1486]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1486, RSSISend: -52, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1487]
+[beaconLoop] Enviando pacote de Request [packetId: 1488]
+[beaconLoop] Enviando pacote de Request [packetId: 1489]
+[beaconLoop] Enviando pacote de Request [packetId: 1490]
+[beaconLoop] Enviando pacote de Request [packetId: 1491]
+[beaconLoop] Enviando pacote de Request [packetId: 1492]
+[beaconLoop] Enviando pacote de Request [packetId: 1493]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1493, RSSISend: -53, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1493, RSSISend: -50, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1493, RSSISend: -55, RSSIRecv: -54]
+[beaconLoop] Enviando pacote de Request [packetId: 1494]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1494, RSSISend: -49, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1494, RSSISend: -50, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1494, RSSISend: -53, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1495]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1495, RSSISend: -52, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1495, RSSISend: -56, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1496]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1496, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1496, RSSISend: -52, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1497]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1497, RSSISend: -51, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1497, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1497, RSSISend: -53, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1498]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1498, RSSISend: -43, RSSIRecv: -43]
+[beaconLoop] Enviando pacote de Request [packetId: 1499]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1499, RSSISend: -49, RSSIRecv: -49]
+[beaconLoop] Enviando pacote de Request [packetId: 1500]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1500, RSSISend: -51, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1500, RSSISend: -54, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1500, RSSISend: -55, RSSIRecv: -56]
+[beaconLoop] Enviando pacote de Request [packetId: 1501]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1501, RSSISend: -53, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1501, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1501, RSSISend: -54, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1502]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1502, RSSISend: -53, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1502, RSSISend: -51, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1503]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1503, RSSISend: -41, RSSIRecv: -40]
+[beaconLoop] Enviando pacote de Request [packetId: 1504]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1504, RSSISend: -51, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1505]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1506, RSSISend: -49, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1506, RSSISend: -52, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1507]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1507, RSSISend: -51, RSSIRecv: -52]
+a [beaconLoop] Enviando pacote de Request [packetId: 1508]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1508, RSSISend: -49, RSSIRecv: -49]
+[beaconLoop] Enviando pacote de Request [packetId: 1509]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1509, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1509, RSSISend: -52, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1509, RSSISend: -53, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1510]
+[beaconLoop] Enviando pacote de Request [packetId: 1511]
+[beaconLoop] Enviando pacote de Request [packetId: 1512]
+[beaconLoop] Enviando pacote de Request [packetId: 1513]
+[beaconLoop] Enviando pacote de Request [packetId: 1514]
+[beaconLoop] Enviando pacote de Request [packetId: 1515]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1515, RSSISend: -53, RSSIRecv: -51]
+[beaconLoop] Enviando pacote de Request [packetId: 1516]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1516, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1516, RSSISend: -50, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1516, RSSISend: -53, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1517]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1517, RSSISend: -52, RSSIRecv: -51]
+[beaconLoop] Enviando pacote de Request [packetId: 1518]
+
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1518, RSSISend: -55, RSSIRecv: -54]
+[beaconLoop] Enviando pacote de Request [packetId: 1519]
+
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1519, RSSISend: -53, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1519, RSSISend: -51, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1519, RSSISend: -54, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1520]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1520, RSSISend: -50, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1520, RSSISend: -49, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1520, RSSISend: -53, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1521]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1521, RSSISend: -50, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1521, RSSISend: -52, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1521, RSSISend: -53, RSSIRecv: -54]
+[beaconLoop] Enviando pacote de Request [packetId: 1522]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1522, RSSISend: -49, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1522, RSSISend: -52, RSSIRecv: -54]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1522, RSSISend: -50, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1523]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1523, RSSISend: -53, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1523, RSSISend: -52, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1523, RSSISend: -50, RSSIRecv: -49]
+[beaconLoop] Enviando pacote de Request [packetId: 1524]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1524, RSSISend: -52, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1524, RSSISend: -50, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1524, RSSISend: -54, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1525]
+[beaconLoop] Enviando pacote de Request [packetId: 1526]
+[beaconLoop] Enviando pacote de Request [packetId: 1527]
+[beaconLoop] Enviando pacote de Request [packetId: 1528]
+[beaconLoop] Enviando pacote de Request [packetId: 1529]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1529, RSSISend: -51, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1529, RSSISend: -49, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1529, RSSISend: -53, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1530]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1530, RSSISend: -40, RSSIRecv: -40]
+[beaconLoop] Enviando pacote de Request [packetId: 1531]
+
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1531, RSSISend: -51, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1531, RSSISend: -49, RSSIRecv: -49]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1531, RSSISend: -53, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1532]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1532, RSSISend: -50, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1532, RSSISend: -49, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1532, RSSISend: -56, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1533]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1533, RSSISend: -52, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1533, RSSISend: -55, RSSIRecv: -54]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1533, RSSISend: -49, RSSIRecv: -51]
+[beaconLoop] Enviando pacote de Request [packetId: 1534]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1534, RSSISend: -54, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1534, RSSISend: -52, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1534, RSSISend: -57, RSSIRecv: -55]
+[beaconLoop] Enviando pacote de Request [packetId: 1535]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1535, RSSISend: -51, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1535, RSSISend: -49, RSSIRecv: -48]
+[beaconLoop] Enviando pacote de Request [packetId: 1536]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1536, RSSISend: -52, RSSIRecv: -53]
+[beaconLoop] Enviando pacote de Request [packetId: 1537]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1537, RSSISend: -53, RSSIRecv: -50]
+[beaconLoop] Enviando pacote de Request [packetId: 1538]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1538, RSSISend: -52, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1539]
+
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1539, RSSISend: -45, RSSIRecv: -42]
+[beaconLoop] Enviando pacote de Request [packetId: 1540]
+
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1540, RSSISend: -49, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1540, RSSISend: -50, RSSIRecv: -53]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1540, RSSISend: -53, RSSIRecv: -54]
+[beaconLoop] Enviando pacote de Request [packetId: 1541]
+[beaconLoop] Enviando pacote de Request [packetId: 1542]
+[beaconLoop] Enviando pacote de Request [packetId: 1543]
+[beaconLoop] Enviando pacote de Request [packetId: 1544]
+[beaconLoop] Enviando pacote de Request [packetId: 1545]
+[beaconLoop] Enviando pacote de Request [packetId: 1546]
+
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1546, RSSISend: -51, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1546, RSSISend: -55, RSSIRecv: -52]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1546, RSSISend: -52, RSSIRecv: -51]
+[beaconLoop] Enviando pacote de Request [packetId: 1547]
+[beaconLoop] Enviando pacote de Request [packetId: 1548]
+[beaconLoop] Enviando pacote de Request [packetId: 1549]
+- Recebido pacote de Reply [nodeIdz 2, packetId: 1549, RSSISend: -52, RSSIRecv: -51]
+- Recebido pacote de Reply [nodeIdz 1, packetId: 1549, RSSISend: -50, RSSIRecv: -50]
+- Recebido pacote de Reply [nodeIdz 3, packetId: 1549, RSSISend: -53, RSSIRecv: -52]
+[beaconLoop] Enviando pacote de Request [packetId: 1550]
